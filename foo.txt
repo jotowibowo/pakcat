@@ -1,9 +1,3 @@
 let txt = 'Here goes nothing';
 let txt1 = 'Here she comes';
 
-function getDate() {
-  console.log(txt);
-  document.getElementById("inputFileNameToSaveAs").value = txt;
-  console.log(txt1);
-  document.getElementById("inputFileNameToSaveAs1").value = txt1;
-}
