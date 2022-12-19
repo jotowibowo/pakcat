@@ -1,7 +1,3 @@
-var Student =
-{
-	name : "ABC",
-	age : 18,
-	dept : "CSE",
-	score : 90
-};
+function myFunction() {
+    document.getElementById("demo").innerHTML="Paragraph changed.";
+}
