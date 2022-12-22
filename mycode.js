@@ -1,4 +1,4 @@
-function myFunction() {
+function myFunction(timeoutPeriod) {
     document.getElementById("demo").innerHTML="Berubah Jd bau!!!!";
-    sessionStorage.clear();
+    setTimeout("location.reload(true);",timeoutPeriod);
 }
