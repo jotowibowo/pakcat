@@ -8,5 +8,6 @@ let data = [
 {"processing_date":"2022-11-30","customer_nr":"1021823","nama_debitur":"MOJONG MITRA MAJU PT","DRS":"17","ECL_IDR": 204609388},
 {"processing_date":"2022-11-30","customer_nr":"1023965","nama_debitur":"SUKSES EXPAMET PT","DRS":"19","ECL_IDR": 1147804489},
 {"processing_date":"2022-11-30","customer_nr":"9987008","nama_debitur":"MAXIM MASPION`PT","DRS":"19","ECL_IDR": 833072789},
-{"processing_date":"2022-11-30","customer_nr":"9978268","nama_debitur":"BARA INDAH SINERGI PT","DRS":"17","ECL_IDR": 218675989}
+{"processing_date":"2022-11-30","customer_nr":"9978268","nama_debitur":"BARA INDAH SINERGI PT","DRS":"17","ECL_IDR": 218675989},
+{"processing_date":"2022-11-30","customer_nr":"9903631","nama_debitur":"FKS MULTI AGRO TBK PT","DRS":"11","ECL_IDR": 2148662029}
 ]
