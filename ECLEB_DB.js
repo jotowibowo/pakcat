@@ -10,5 +10,6 @@ let data = [
 {"processing_date":"2022-11-30","customer_nr":"9987008","nama_debitur":"MAXIM MASPION`PT","DRS":"19","ECL_IDR": 833072789},
 {"processing_date":"2022-11-30","customer_nr":"9978268","nama_debitur":"BARA INDAH SINERGI PT","DRS":"17","ECL_IDR": 218675989},
 {"processing_date":"2022-11-30","customer_nr":"9903631","nama_debitur":"FKS MULTI AGRO TBK PT","DRS":"11","ECL_IDR": 2148662029},
-{"processing_date":"2022-11-30","customer_nr":"9862205","nama_debitur":"BOROBUDUR OTO MOBILPT","DRS":"17","ECL_IDR": 201584018}
+{"processing_date":"2022-11-30","customer_nr":"9862205","nama_debitur":"BOROBUDUR OTO MOBIL PT","DRS":"17","ECL_IDR": 201584018},
+{"processing_date":"2022-11-30","customer_nr":"2481230","nama_debitur":"PRASIDHA ANEKA NIAGA TBK PT","DRS":"22","ECL_IDR": 3904351569}
 ]
