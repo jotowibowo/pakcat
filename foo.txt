@@ -1,0 +1,3 @@
+let txt = 'Here goes nothing';
+let txt1 = 'Here she comes';
+
